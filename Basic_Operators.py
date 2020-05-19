@@ -34,7 +34,7 @@ print("\n")
 print([1, 2, 3] * 3)
 print("\n")
 
-#Exercise
+# EXERCISE
 x = object()
 y = object()
 
