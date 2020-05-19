@@ -22,7 +22,7 @@ print("\n")
 # %.<number of digits>f - Floating point numbers with a fixed amount of digits to the right of the dot.
 # %x/%X - Integers in hex representation (lowercase/uppercase)
 
-# Exercise
+# EXERCISE
 # will output: Hello John Doe. Your current balance is $53.44.
 data = ("John", "Doe", 53.44)
 format_string = "Hello %s %s. Your current balance is $%s."
